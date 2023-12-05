@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>CANARY</title>
+         <link href='style.css' rel='stylesheet'>
+    </head>
+    <h1>CANARY</h1>
+    <h2>About them</h2>
+    <p>The domestic canary, often simply known as the canary, is a domesticated form of the wild canary, a small songbird in the finch family originating from the Macaronesian Islands. 
+        Canaries were first bred in captivity in the 17th century, having been brought to Europe by Spanish sailors.<br><br>Canaries readily breed with other species of finches. This hybridization yields unique canaries. 
+        For example, red canaries resulted from the breeding of domestic canaries with red siskins, a South American finch.</p>
+
+    <h2>Facts</h2>
+    <p>The original wild canary is a bright yellow bird with gray-black streaking on the back. Canaries are herbivores, and are best known for their vibrant feathers and beautiful songs.
+       They originated in the Canary Islands. Only the male Canary bird is capable of singing. The female bird only chirps.</p>
+       <div class="web">
+       <a href='https://en.wikipedia.org/wiki/Domestic_canary' about='blank'>Read more</a>
+       </div>
+       <img src="https://images.app.goo.gl/V2DMXr74XLuV1sXw5" />
+
+</html>

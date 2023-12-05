@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>ECLECTUS PARROT</title>
+         <link href='style.css' rel='stylesheet'>
+    </head>
+    <h1>ECLECTUS PARROT</h1>
+    <h2>About them</h2>
+    <p>The Moluccan eclectus is a parrot native to the Maluku Islands. It is unusual in the parrot family for its extreme sexual dimorphism of the colours of the plumage; 
+        the male having a mostly bright emerald green plumage and the female a mostly bright red and purple/blue plumage.<br> The scientific name is Eclectus roratus. This bird is one of the larger parrot species.
+        They are charming, eye-catching, and intelligent parrots.</p>
+
+        <img src="https://images.app.goo.gl/DGXMdRV1ExYySDR4A" />
+
+    <h2>Facts</h2>
+    <p>Male Eclectuses beaks are yellow-orange and black whereas female beaks are completely black. These highly vocal parrots are not only excellent mimics of human speech, they also produce a wide range of other sounds, including tones, coos, whistles, and laughs.
+        Does not squawk like other parrot species.There are nine subspecies of eclectus from different region.
+    </p>
+    <div class="web">
+    <a href='https://en.wikipedia.org/wiki/Eclectus' about='blank'>Read more</a>
+    </div>
+</html>

@@ -1,0 +1,83 @@
+table {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+}
+
+thead th {
+  background: #111D4A;
+  color: #FFCF99;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+tr {
+  background: #FFCF99;
+  border-bottom: 1px solid #000000;
+  margin-bottom: 5px;
+}
+
+th, td {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  padding: 20px;
+  text-align: justify;
+  width: 33%;
+  font-size: 18px;
+  color: #111D4A;
+}
+
+p {
+  font-size: 17px;
+  font-family: Georgia;
+}
+
+h1 {
+  font-style: Bebas Neue;
+  text-align: center;
+  text-decoration-line: underline;
+  font-size: 35px;
+}
+
+h2 {
+  font-style: Varela Round;
+  font-size: 27px;
+}
+li {
+font-size: 17px;
+font-style: Nova Square;
+}
+body {
+background-color: #64B6AC;
+}
+
+.bird a {
+  color: #111D4A;
+}
+
+.bird a:hover {
+  color: #507DBC;
+  font-size: 16px;
+}
+
+.web a {
+  color: #70161E;
+}
+
+.web a:hover {
+  color: #F3D8C7;
+  font-size: 20px;
+}
+
+p a {
+  color: #F3D8C7;
+}
+
+p a:hover {
+  color: #2B156A;
+}

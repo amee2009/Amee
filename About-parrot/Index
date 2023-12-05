@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>MY WEBSITE</title>
+        <link href='style.css' rel='stylesheet'>
+    </head>
+    
+<h1>Friendly Parrots</h1>
+
+<h2>About Parrot</h2>
+
+<p>Parrot are popular and intelligent pet that come in different sizes and species. Some parrot can live upto <strong>100 years</strong> but requires a lot of attention and special care.<br><br> Parrot can be trained to fly freely in the house and never fly away.
+   With proper care and attention,parrot can be great pets and long-time companions.
+</p>
+
+<h2>Types of Parrot</h2>
+<p>There are many <a href="https://en.wikipedia.org/wiki/List_of_parrots" about='blank'>Types of Parrot</a>, some of them are given below.</p>
+<div class="bird">
+<table>
+    <thead>
+        <tr>
+            <th>Parrots</th>
+            <th>Average Lifespan</th>
+            <th>Height(Adult)</th>
+            <th>Mass(Adult)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="Parakeet">Parakeet</a></td>
+            <td>15 years</td>
+            <td>23-25 cm</td>
+            <td>30-40 g</td>
+        </tr>
+        <tr>
+            <td><a href="Cockateil">Cockateil</a></td>
+            <td>15-25 years</td>
+            <td>30-35 cm</td>
+            <td>70-120 g</td>
+        </tr>
+        <tr>
+            <td><a href="Cockatoo">Cockatoo</a></td>
+            <td>40-60 years</td>
+            <td>44-51 cm</td>
+            <td>0.3-1.2 kg</td>
+        </tr>
+        <tr>
+            <td><a href="Parrotlet">Parrotlet</a></td>
+            <td>15-20 years</td>
+            <td>11-14 cm</td>
+            <td>25-35 g</td>
+        </tr>
+        <tr>
+            <td><a href="Eclectus Parrot">Eclectus Parrot</a></td>
+            <td>20-30 years</td>
+            <td>35-42 cm</td>
+            <td>350-450 g</td>
+        </tr>
+        <tr>
+            <td><a href="Canary">Canary</a></td>
+            <td>10-12 years</td>
+            <td>10-12 cm</td>
+            <td>15-25 g</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+</html>

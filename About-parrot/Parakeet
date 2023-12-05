@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>PARAKEET</title>
+         <link href='style.css' rel='stylesheet'>
+    </head>
+    <h1>PARAKEET</h1>
+    <h2>About them</h2>
+    <p>Parakeet is one of many small to medium-sized species of parrot. The name parakeet is derived from the french word <bold>Perroquet</bold>.
+        Parakeet are one of the most popular cage birds in the world because they can learn to speak.The popular breed of parakeet is <strong>Budgerigar</strong> and the rarest breed is the <strong>Malherbe's Parakeet</strong>.
+    </p>
+    <p>Parakeets comprise about 115 species of birds that are seed-eating parrots of small size, slender build, and long, tapering tails. 
+        The Australian budgerigar, also known as "budgie". It was first described by zoologists in 1891.</p>
+    
+       <video src="https://www.youtube.com/watch?v=G1XgHwpJceU" controls>
+       Video Not Supported
+       </video>
+    <h2>Facts</h2>
+    <ul>
+        <li>Parakeets can talk.</li>
+        <li>Parakeet is a flock bird.</li>
+        <li>The cere above a parakeet's beak reveals its gender.</li>
+        <li>Parakeets do not create their nest.</li>
+        <li>Parakeets have four toes.</li>
+        <li>Parakeets love attention and can make great companions.</li>
+        <li>Parakeets are omnivores.</li>
+        <li>Most adult parakeets have few predators.</li>    
+    </ul>
+<div class="web">
+    <a href="https://en.wikipedia.org/wiki/Parakeet" about='blank'>Read More</a>
+</div>
+
+</html>

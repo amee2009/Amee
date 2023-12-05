@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>COCKATOO</title>
+         <link href='style.css' rel='stylesheet'>
+    </head>
+    <h1>COCKATOO</h1>
+    <h2>About them</h2>
+    <p>Cockatoos are a family of large, long-lived and very noisy parrots with a moveable crest.
+        Cockatoos differ from other parrots not only because of their crest, which can be raised by the bird when needed, but also because they are mostly black or white. <br>
+        Cockatoos are treetop, hole-nesting birds; at times they form large, noisy flocks. Because they are showy, inventive, and affectionate towards their owner.
+        Australia is home to 14 species and others also found in Papua New Guinea, Indonesia, the Solomon Islands and the Philippines.</p>
+
+    <h2>Facts</h2>
+    <p>Cockatoos can mimic the sounds of other animals, including people. Cockatoos can hold their food in one foot and break pieces off of it with the other foot.
+       Cockatoos live in small loose flocks. These birds are very gregarious and emit a shrill cry.<br>Cockatoos have a preferred “footedness” analogous to human handedness.
+       Unlike humans, most are left-footed. In captivity, cockatoos have a lifespan similar to humans</p>
+       <div class="web">
+       <a href='https://en.wikipedia.org/wiki/Cockatoo'>Read more</a>
+       </div>
+       <img src="https://images.app.goo.gl/Zpwd1JV2QE7vuypp8" />
+
+
+
+</html>

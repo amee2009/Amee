@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>COCKATIEL</title>
+         <link href='style.css' rel='stylesheet'>
+    </head>
+<h1>COCKATEIL</h1>
+<h2>About them</h2>
+<p>The cockatiel, also known as the weero/weiro or quarrion, is a medium-sized parrot that is a member of its own branch of the cockatoo family endemic to Australia. 
+    They are prized as household pets and companion parrots throughout the world and are relatively easy to breed.<br><br>
+    In their native Australia, cockatiels primarily live in the Outback, a region of the northern part of the continent. 
+    Discovered in 1770, they are the smallest members of the cockatoofamily. They exhibit many of the same features and habits as the larger bird. In the wild, they live in large flocks.</p>
+
+    <h2>Facts</h2>
+    <p>Cockatiels are very social birds and love company, especially from their owners. One of the unique features of cockatiels is their distinctive crest on top of their heads.
+       Cockatiels have an average lifespan of 15-20 years, but with proper care and attention, they can live up to 25-30 years. They are graceful, gentle, and generally quiet birds, well suited for a household with children. </p>
+
+    <h2>Types of Cockateil</h2>
+    <p>There are 12 types of Cockateil.</p>
+    <ol>
+        <li>Normal (Gray) Cockatiel</li>
+        <li>Pearl Cockatiel</li>
+        <li>Lutino Cockatiel</li>
+        <li>Whiteface Cockatiel</li>
+        <li>Albino Cockatiel</li>
+        <li>Pied Cockatiel</li>
+        <li>Yellowface Cockatiel</li>
+        <li>Cinnamon Cockatiel</li>
+        <li>Silver Cockatiel</li>
+        <li>Fallow Cockatiel</li>
+        <li>Emerald/Olive Cockatiel</li>
+        <li>Blue Cockatiel</li>
+    </ol>
+    <div class="web">
+    <a href="https://en.wikipedia.org/wiki/Cockatiel" about='blank'>Read more</a>
+    </div>
+    <img src="https://images.app.goo.gl/3SyDoQNBBXW7pfSEA"/>
+
+
+</html>

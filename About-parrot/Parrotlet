@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>PARROTLET</title>
+         <link href='style.css' rel='stylesheet'>
+    </head>
+    <h1>PARROTLET</h1>
+    <h2>About them</h2>
+    <p>Parrotlets are a group of the smallest New World parrot species, comprising several genera, namely Forpus, Nannopsittaca, and Touit. They have stocky builds and short tails and are endemic to Middle and South America.<br><br>
+        Parrotlets form strong bonds with their owners and make excellent pets when properly raised and tamed.Parrotlets are extremely active birds in the wild, spending countless hours each day flying, foraging for food, and staying clear of predators.
+    </p>
+
+    <h2>Facts</h2>
+    <p>They are the smallest birds in the Parrot Family. They Have a long lifespan. They have big personalities. They are extremely active. Some of its breeds can learn to talk.</p>
+
+    <img src="https://images.app.goo.gl/p6d8oXvNdAseWL6x9" />
+
+    <h2>Some types of Parrotlets</h2>
+    <ul>
+    <li>Pacific parrotlet</li>
+    <li>Forpus</li>
+    <li>Green-rumped parrotlet</li>
+    <li>Yellow-faced parrotlet</li>
+    <li>Spectacled parrotlet</li>
+    <li>Mexican parrotlet</li>
+    <li>Dusky-billed parrotlet</li>
+    <li>Touit</li>
+    <li>Riparian parrotlet</li>
+    <li>Nannopsittaca</li>
+    <li>Red-fronted parrotlet</li>
+    </ul>
+    <div class="web">
+    <a href='https://en.wikipedia.org/wiki/Parrotlet' about='blank'>Read more</a>
+    </div>
+</html>
